@@ -32,19 +32,16 @@
 | **System Design** |  Масштабирование, архитектура больших систем, подготовка к интервью |
 
 ---
-## 📊 Дашборд чтения
 
-<div align="center">
-  
-| Книга | Прогресс |
-|:---|:---|
-| **Чистый код** | ![17%](https://img.shields.io/badge/Прогресс-17%25-2f81f7?style=for-the-badge&logo=readthedocs) |
-| **Python глазами хакера** | ![3%](https://img.shields.io/badge/Прогресс-3%25-ff6b6b?style=for-the-badge&logo=python) |
-| **От джуна до синьора** | ![100%](https://img.shields.io/badge/ГОТОВО-100%25-00ff00?style=for-the-badge&logo=checkmark) ✅ |
-| **System Design** | ![12%](https://img.shields.io/badge/Прогресс-12%25-f39c12?style=for-the-badge&logo=aws) |
-| **WEB-приложения** | ![8%](https://img.shields.io/badge/Прогресс-8%25-3498db?style=for-the-badge&logo=javascript) |
+## 📚 Книжная полка
 
-</div>
+| | Книга | Страницы | Статус |
+|:-:|:---|:---:|:---|
+| 📘 | **Чистый код** | 70/400 | ▓▓▓▓░░░░░░ 17% |
+| 🐍 | **Python глазами хакера** | 10/300 | ▓░░░░░░░░░ 3% |
+| 🚀 | **От джуна до синьора** | 320/320 | ✅ ГОТОВО |
+| 🏗️ | **System Design** | 45/380 | ▓▓░░░░░░░░ 12% |
+| 🌐 | **WEB-приложения** | 40/480 | ▓░░░░░░░░░ 8% |
 
 ---
 
