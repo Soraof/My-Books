@@ -13,13 +13,15 @@
 
 | № | Книга | Автор | Статус |
 |:-:|:---|:---|:---|
-| 1 | [Python глазами хакера](#) | М. Бруцкий-Стемпковский |  ❤️ процессе |
-| 2 | [От джуна до синьора: Как стать востребованным разработчиком / IT / Карьера программиста](#) | Швец Владимир Владимирович | ☑️ Прочитана |
-| 3 | [Проектирование и разработка WEB-приложений. Введение в frontend и backend разработку на JavaScript и node.js](#) | Заяц А.М., Васильев Н.П. | 🧡 В планах |
-| 4 | [Чистый код: создание, анализ и рефакторинг. Библиотека программиста](#) | Мартин Роберт | Как Справочник)🖤 |
-| 5 | [System Design. Подготовка к сложному интервью / книги по программированию](#) | Сюй Алекс | 🤍 Приоритет |
+| 1 | [Python глазами хакера](https://www.ozon.ru/product/python-glazami-hakera-431310403/) | М. Бруцкий-Стемпковский | ❤️ В процессе |
+| 2 | [От джуна до синьора: Как стать востребованным разработчиком](https://www.ozon.ru/product/ot-dzhuna-do-senora-kak-stat-vostrebovannym-razrabotchikom-2705448710/) | Швец Владимир Владимирович | ☑️ Прочитана |
+| 3 | [Проектирование и разработка WEB-приложений. Введение в frontend и backend разработку на JavaScript и node.js](https://www.ozon.ru/product/proektirovanie-i-razrabotka-web-prilozheniy-vvedenie-v-frontend-i-backend-razrabotku-na-javascript-i-2576046493/) | Заяц А.М., Васильев Н.П. | 🧡 В планах |
+| 4 | [Чистый код: создание, анализ и рефакторинг](https://www.ozon.ru/product/chistyy-kod-sozdanie-analiz-i-refaktoring-biblioteka-programmista-martin-robert-142429922/) | Мартин Роберт | Как Справочник) 🖤 |
+| 5 | [System Design. Подготовка к сложному интервью](https://www.ozon.ru/product/system-design-podgotovka-k-slozhnomu-intervyu-knigi-po-programmirovaniyu-syuy-aleks-484537397/) | Сюй Алекс | 🤍 Приоритет |
 
 ---
+
+## 📊 Прогресс чтения
 
 | | Книга | Страницы | Статус |
 |:-:|:---|:---:|:---|
@@ -33,4 +35,14 @@
 
 <div align="center">
   
-
+  ### 🔗 Полезные ссылки
+  
+  | Книга | Ссылка |
+  |:---|:---|
+  | Python глазами хакера | [Ozon](https://www.ozon.ru/product/python-glazami-hakera-431310403/) |
+  | От джуна до синьора | [Ozon](https://www.ozon.ru/product/ot-dzhuna-do-senora-kak-stat-vostrebovannym-razrabotchikom-2705448710/) |
+  | WEB-приложения (JS/Node.js) | [Ozon](https://www.ozon.ru/product/proektirovanie-i-razrabotka-web-prilozheniy-vvedenie-v-frontend-i-backend-razrabotku-na-javascript-i-2576046493/) |
+  | Чистый код | [Ozon](https://www.ozon.ru/product/chistyy-kod-sozdanie-analiz-i-refaktoring-biblioteka-programmista-martin-robert-142429922/) |
+  | System Design | [Ozon](https://www.ozon.ru/product/system-design-podgotovka-k-slozhnomu-intervyu-knigi-po-programmirovaniyu-syuy-aleks-484537397/) |
+  
+</div>
