@@ -32,19 +32,26 @@
 | **System Design** |  Масштабирование, архитектура больших систем, подготовка к интервью |
 
 ---
-
-## 📊 Прогресс чтения
-
-| Книга | Прогресс |
-|:---|:---|
-| **Чистый код** | `[▓▓▓▓░░░░░░░░░░░░░░░░]` 70/400 |
-| **Python глазами хакера** | `[▓░░░░░░░░░░░░░░░░░░░]` 10/300 |
-| **От джуна до синьора** | `[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓]` 320/320 ✅ |
-| **System Design** | `[▓▓░░░░░░░░░░░░░░░░░░]` 45/380 |
-| **WEB-приложения** | `[▓░░░░░░░░░░░░░░░░░░░]` 40/480 |
+## 📊 Дашборд чтения
 
 <div align="center">
   
-  ### 🔥 Общая картина
+| Книга | Прогресс |
+|:---|:---|
+| **Чистый код** | ![17%](https://img.shields.io/badge/Прогресс-17%25-2f81f7?style=for-the-badge&logo=readthedocs) |
+| **Python глазами хакера** | ![3%](https://img.shields.io/badge/Прогресс-3%25-ff6b6b?style=for-the-badge&logo=python) |
+| **От джуна до синьора** | ![100%](https://img.shields.io/badge/ГОТОВО-100%25-00ff00?style=for-the-badge&logo=checkmark) ✅ |
+| **System Design** | ![12%](https://img.shields.io/badge/Прогресс-12%25-f39c12?style=for-the-badge&logo=aws) |
+| **WEB-приложения** | ![8%](https://img.shields.io/badge/Прогресс-8%25-3498db?style=for-the-badge&logo=javascript) |
+
+</div>
+
+---
+
+<div align="center">
+  
+  ### 🎯 Общий прогресс: 14%
+  
+  ![14%](https://progress-bar.dev/14/?title=Total&width=400&color=2f81f7)
   
 
