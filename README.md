@@ -34,15 +34,4 @@
 ---
 
 <div align="center">
-  
-  ### 🔗 Полезные ссылки
-  
-  | Книга | Ссылка |
-  |:---|:---|
-  | Python глазами хакера | [Ozon](https://www.ozon.ru/product/python-glazami-hakera-431310403/) |
-  | От джуна до синьора | [Ozon](https://www.ozon.ru/product/ot-dzhuna-do-senora-kak-stat-vostrebovannym-razrabotchikom-2705448710/) |
-  | WEB-приложения (JS/Node.js) | [Ozon](https://www.ozon.ru/product/proektirovanie-i-razrabotka-web-prilozheniy-vvedenie-v-frontend-i-backend-razrabotku-na-javascript-i-2576046493/) |
-  | Чистый код | [Ozon](https://www.ozon.ru/product/chistyy-kod-sozdanie-analiz-i-refaktoring-biblioteka-programmista-martin-robert-142429922/) |
-  | System Design | [Ozon](https://www.ozon.ru/product/system-design-podgotovka-k-slozhnomu-intervyu-knigi-po-programmirovaniyu-syuy-aleks-484537397/) |
-  
-</div>
+
