@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Books+%2B+Code+=+%D0%9C%D0%BE%D1%89%D1%8C;Python+%D0%B3%D0%BB%D0%B0%D0%B7%D0%B0%D0%BC%D0%B8+%D1%85%D0%B0%D0%BA%D0%B5%D1%80%D0%B0;Clean+Architecture+Mindset" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Python+%D0%B3%D0%BB%D0%B0%D0%B7%D0%B0%D0%BC%D0%B8+%D1%85%D0%B0%D0%BA%D0%B5%D1%80%D0%B0;Clean+Code+by+Robert+Martin;System+Design+Mastery" alt="Typing SVG" />
 </div>
 
 # 📚 My Bookshelf
