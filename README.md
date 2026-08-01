@@ -19,7 +19,7 @@
 | 3 | [Проектирование и разработка WEB-приложений. Введение в frontend и backend разработку на JavaScript и node.js](https://www.ozon.ru/product/proektirovanie-i-razrabotka-web-prilozheniy-vvedenie-v-frontend-i-backend-razrabotku-na-javascript-i-2576046493/) | Заяц А.М., Васильев Н.П. | 🧡 В планах |
 | 4 | [Чистый код: создание, анализ и рефакторинг](https://www.ozon.ru/product/chistyy-kod-sozdanie-analiz-i-refaktoring-biblioteka-programmista-martin-robert-142429922/) | Мартин Роберт | Как Справочник) 🖤 |
 | 5 | [System Design. Подготовка к сложному интервью](https://www.ozon.ru/product/system-design-podgotovka-k-slozhnomu-intervyu-knigi-po-programmirovaniyu-syuy-aleks-484537397/) | Сюй Алекс | 🤍 Приоритет |
-
+| 6 | [Дискретная математика для программистов | Хаггарти Род] (https://www.ozon.ru/product/diskretnaya-matematika-dlya-programmistov-haggarti-rod-267352266/?__rr=1&abt_att=1&origin_referer=yandex.ru&sh=aQ9chzZ4rg) | Хаггарти Род | 💜 В планах|
 ---
 
 ## Прогресс чтения
