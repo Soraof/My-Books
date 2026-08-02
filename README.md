@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=808080&center=true&vCenter=true&width=700&lines=Python+глазами+хакера+—+Бруцкий-Стемпковский;От+джуна+до+синьора+—+Швец+В.В.;WEB-приложения+—+Заяц+%7C+Васильев;Чистый+код+—+Роберт+Мартин;System+Design+—+Алекс+Сюй;Дискретная+математика+—+Род+Хаггарти" alt="Typing SVG" />
 </div>
  
- >Привет! Это моя личная коллекция технической литературы. Здесь книги по **Python**, **веб-разработке**, **архитектуре** и **карьере**.
 
 ![avatar](https://github.com/user-attachments/assets/28c9be57-667e-4493-91c9-22277b85a726)
 ---
